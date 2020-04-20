@@ -1,2 +1,3 @@
 # Bootsrap_Blocks
-Bootsrap design blocks.
+
+Design blocks for bootstrap.
