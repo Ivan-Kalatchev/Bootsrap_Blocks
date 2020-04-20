@@ -1,0 +1,36 @@
+.card-icon {
+  position: absolute !important;
+  top: 1.8rem !important;
+  right: -0.8rem !important;
+  color: white !important;
+  opacity: 40% !important;
+  font-size: 6rem !important;
+  transition: all 0.2s ease-in-out;
+}
+
+.AdminCard:hover > .card-icon {
+  cursor: pointer;
+  position: absolute !important;
+  top: 1.4rem !important;
+  right: -0.5rem !important;
+  color: white !important;
+  opacity: 60% !important;
+  font-size: 6.1rem !important;
+  transition: all 0.2s ease-in-out;
+}
+
+.AdminCard:hover {
+  cursor: pointer;
+  opacity: 90%;
+  transform: scale(1.015);
+  transition: all 0.2s ease-in-out;
+}
+
+.AdminCard-title {
+  font-weight: bold !important;
+}
+
+.AdminCard {
+  opacity: 85%;
+  transition: all 0.2s ease-in-out;
+}
