@@ -1,0 +1,14 @@
+.toolbar {
+  max-height: 2.4rem;
+}
+
+.toolbar-b {
+  margin-top: -2rem;
+  border-radius: 0px;
+  padding: 0px;
+  color: rgb(0, 132, 255);
+}
+
+.toolbar-b:hover{
+  background-color: rgb(197, 197, 197);
+}
