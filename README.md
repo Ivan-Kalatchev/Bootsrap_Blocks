@@ -6,4 +6,4 @@ The first block is the admin card. Here you can see image of the card. When you 
 
 # Toolbar
 When you hover over the items the have little change in the bacground color. The domo works with iconify.
-![Image of AdminCard](https://i.ibb.co/GQrPP9j/Admin-Card.png)
+![Image of AdminCard](https://github.com/Ivan-Kalatchev/Bootsrap_Blocks/blob/master/Images/Toolbar.png?raw=true)
